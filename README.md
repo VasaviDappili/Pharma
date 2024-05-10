@@ -1,5 +1,5 @@
 # Project Responsive Web Design using Bootstrap
-## Date:
+## Date:10-05-2024
 
 ## AIM:
 To design a responsive website for a Pharmaceutical Company using Bootstrap.
@@ -29,7 +29,10 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-
+![alt text](<Screenshot (67).png>)
+![alt text](<Screenshot (68).png>)
+![alt text](<Screenshot (69).png>)
+![alt text](<Screenshot (70).png>)
 
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
